@@ -6,7 +6,7 @@ For VS libvlc needs to be installed from nuget: https://www.nuget.org/packages/V
 
 For Linux libvlc-dev and libvlccore-dev needs to be installed.
 
-'sudo apt-get install libvlc-dev libvlccore-dev`
+`sudo apt-get install libvlc-dev libvlccore-dev`
 
 The Hap example video can be downloaded here: [https://docs.vidvox.net/vdmx_sample_media.html#media-files
 ](https://s3.amazonaws.com/vidvox/downloads/SpiralsAndLoopsHapAlpha.zip)
